@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -145,6 +145,14 @@
       "chainId": 84531,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0x9E6f59e7EA9A0dB53eAC836F36Cff7c674ffAa37.png"
+    },
+    {
+      "name": "Lido Staked Ether",
+      "symbol": "stETH",
+      "address": "0xe5111fEfD0694b81529d9F57ACD85a537251cDCc",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xe5111fEfD0694b81529d9F57ACD85a537251cDCc.png"
     }
   ]
 }
