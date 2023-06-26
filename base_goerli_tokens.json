@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -153,6 +153,14 @@
       "chainId": 84531,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xe5111fEfD0694b81529d9F57ACD85a537251cDCc.png"
+    },
+    {
+      "name": "Doo Doo",
+      "symbol": "DooDoo",
+      "address": "0xFC059429122D9334d0A1A2d5C41484E5fC2DEC34",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xFC059429122D9334d0A1A2d5C41484E5fC2DEC34.png"
     }
   ]
 }
