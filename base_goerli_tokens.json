@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 6
+    "patch": 7
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -161,6 +161,14 @@
       "chainId": 84531,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xFDeacA5bc0E8DC0Df189F233d84578e037f908d7.png"
+    },
+    {
+      "name": "GogemsV2",
+      "symbol": "GOGEv2",
+      "address": "0x52887f00B6f57C9308A1032570E8888FdF6535ae",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0x52887f00B6f57C9308A1032570E8888FdF6535ae.png"
     }
   ]
 }
