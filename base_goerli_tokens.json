@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -129,6 +129,14 @@
       "chainId": 84531,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0xa6502d582268F05b3bCcE2a15dd44c21b0219340.png"
+    },
+    {
+      "name": "Quack Token V2",
+      "symbol": "QUACKv2",
+      "address": "0x60b63C016d4Aa91FEfe7e3CE1A69E9a3ea7DEb96",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0x60b63C016d4Aa91FEfe7e3CE1A69E9a3ea7DEb96.png"
     },
     {
       "name": "Crypto Bosses",
