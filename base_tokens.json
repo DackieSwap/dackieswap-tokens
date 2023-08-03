@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -31,7 +31,7 @@
       "symbol": "alxUSDC",
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "chainId": 8453,
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png"
     }
   ]
