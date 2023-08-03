@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Axelar Wrapped USDC",
-      "symbol": "alxUSDC",
+      "symbol": "axlUSDC",
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "chainId": 8453,
       "decimals": 6,
