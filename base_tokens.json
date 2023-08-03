@@ -25,6 +25,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xc2BC7A73613B9bD5F373FE10B55C59a69F4D617B.png"
+    },
+    {
+      "name": "Axelar Wrapped USDC",
+      "symbol": "alxUSDC",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xEB466342C4d449BC9f53A865D5Cb90586f405215.png"
     }
   ]
 }
