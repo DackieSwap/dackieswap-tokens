@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -57,6 +57,14 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.png"
+    },
+    {
+      "name": "Husky",
+      "symbol": "Husky",
+      "address": "0x6636A4CFc2be50d898A87A43E8903ecb8a5D995F",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x6636A4CFc2be50d898A87A43E8903ecb8a5D995F.png"
     }
   ]
 }
