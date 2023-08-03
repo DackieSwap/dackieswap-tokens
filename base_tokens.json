@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 11
+    "patch": 12
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -65,6 +65,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x6636A4CFc2be50d898A87A43E8903ecb8a5D995F.png"
+    },
+    {
+      "name": "BABYDACKIE",
+      "symbol": "BABYDACKIE",
+      "address": "0xFf2989af93896619459Ac56368Ad62CfBe8AA4CB",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xFf2989af93896619459Ac56368Ad62CfBe8AA4CB.png"
     }
   ]
 }
