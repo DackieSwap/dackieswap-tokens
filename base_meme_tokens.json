@@ -1,10 +1,10 @@
 {
-  "name": "Dackieswap MEME Token List",
+  "name": "MEME Zone",
   "timestamp": "2023-08-01T23:11:11Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -17,6 +17,38 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xFf2989af93896619459Ac56368Ad62CfBe8AA4CB.png"
+    },
+    {
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c.png"
+    },
+    {
+      "name": "Bald",
+      "symbol": "BALD",
+      "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8.png"
+    },
+    {
+      "name": "Husky",
+      "symbol": "Husky",
+      "address": "0x6636A4CFc2be50d898A87A43E8903ecb8a5D995F",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x6636A4CFc2be50d898A87A43E8903ecb8a5D995F.png"
+    },
+    {
+      "name": "X Token",
+      "symbol": "X",
+      "address": "0x00000000aaf9055749845c6851a823ba7a58ec21",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x00000000aaf9055749845c6851a823ba7a58ec21.png"
     }
   ]
 }
