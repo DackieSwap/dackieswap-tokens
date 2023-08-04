@@ -1,0 +1,22 @@
+{
+  "name": "Dackieswap Token List",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "meme"],
+  "tokens": [
+    {
+      "name": "BABYDACKIE",
+      "symbol": "BABYDACKIE",
+      "address": "0xFf2989af93896619459Ac56368Ad62CfBe8AA4CB",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xFf2989af93896619459Ac56368Ad62CfBe8AA4CB.png"
+    }
+  ]
+}
