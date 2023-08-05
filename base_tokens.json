@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 15
+    "patch": 16
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -41,6 +41,14 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA.png"
+    },
+    {
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22.png"
     }
   ]
 }
