@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 17
+    "patch": 18
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -57,6 +57,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x639C0D019C257966C4907bD4E68E3F349bB58109.png"
+    },
+    {
+      "name": "WOLFLAB",
+      "symbol": "WOLFIES",
+      "address": "0x4B8F444b313AeBAC210A8B39Efd397a884D94c01",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x4B8F444b313AeBAC210A8B39Efd397a884D94c01.png"
     }
   ]
 }
