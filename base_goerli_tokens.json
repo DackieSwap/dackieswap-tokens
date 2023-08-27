@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -177,6 +177,14 @@
       "chainId": 84531,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0x52887f00B6f57C9308A1032570E8888FdF6535ae.png"
+    },
+    {
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "address": "0x1369da1ba71eD5F17376C3b366049dEed9ace17e",
+      "chainId": 84531,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84531/tokens/0x1369da1ba71eD5F17376C3b366049dEed9ace17e.png"
     }
   ]
 }
