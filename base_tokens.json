@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -74,13 +74,5 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
     },
-    {
-      "name": "Detto Token",
-      "symbol": "DETO",
-      "address": "0x5C3f47595fcC7B4d8c52fFD2b2b105E0D87bF360",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x5C3f47595fcC7B4d8c52fFD2b2b105E0D87bF360.png"
-    }
   ]
 }
