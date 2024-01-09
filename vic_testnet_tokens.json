@@ -1,0 +1,30 @@
+{
+  "name": "Viction Testnet Zone",
+  "timestamp": "2023-06-14T11:45:09Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped VIC",
+      "symbol": "WVIC",
+      "address": "0x6D11438EdC98Ff2FB23083Ce40F4B7e389b7176E",
+      "chainId": 89,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/89/tokens/0x6D11438EdC98Ff2FB23083Ce40F4B7e389b7176E.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xC884c542A08CD4845eC7147c5623D208c66Fbd6E",
+      "chainId": 89,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/89/tokens/0xC884c542A08CD4845eC7147c5623D208c66Fbd6E.png"
+    }
+  ]
+}

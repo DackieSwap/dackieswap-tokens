@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -16,7 +16,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 10,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x4200000000000000000000000000000000000006.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x4200000000000000000000000000000000000006.png"
     },
     {
       "name": "USD Coin Bridged",
@@ -24,7 +24,7 @@
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "chainId": 10,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x7F5c764cBc14f9669B88837ca1490cCa17c31607.png"
     }
   ]
 }
