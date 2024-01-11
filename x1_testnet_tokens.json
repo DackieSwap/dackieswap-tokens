@@ -1,0 +1,38 @@
+{
+  "name": "X1 Testnet Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "address": "0x87A851C652E5d772ba61ec320753c6349bb3C1E3",
+      "chainId": 195,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/195/tokens/0x87A851C652E5d772ba61ec320753c6349bb3C1E3.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x9Ff8b32aC77218bFc35FBAAC89f2a62030b3162d",
+      "chainId": 195,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/195/tokens/0x9Ff8b32aC77218bFc35FBAAC89f2a62030b3162d.png"
+    },
+    {
+      "name": "Dackie Token",
+      "symbol": "DACKIE",
+      "address": "0x48AF1508ce11A48470Edd2454F52A0742b73b588",
+      "chainId": 195,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/195/tokens/0x48AF1508ce11A48470Edd2454F52A0742b73b588.png"
+    }
+  ]
+}
