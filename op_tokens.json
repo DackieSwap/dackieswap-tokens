@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -20,7 +20,7 @@
     },
     {
       "name": "USD Coin Bridged",
-      "symbol": "USDC.e",
+      "symbol": "USDC",
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "chainId": 10,
       "decimals": 6,
@@ -36,7 +36,7 @@
     },
     {
       "name": "Tether USD",
-      "symbol": "OP",
+      "symbol": "USDT",
       "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
       "chainId": 10,
       "decimals": 6,
