@@ -76,7 +76,7 @@
     },
     {
       "name": "DACKIE-ETH LP",
-      "symbol": "DACKIE-ETH LP",
+      "symbol": "DACKIE-ETH-LP",
       "address": "0x7dB1c9f51F2CB456f0c5d7E2F939Fa7f6B360142",
       "chainId": 8453,
       "decimals": 18,
