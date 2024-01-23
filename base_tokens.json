@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -75,7 +75,7 @@
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
     },
     {
-      "name": "DackiETH",
+      "name": "DACKIE-ETH LP",
       "symbol": "DACKIETH",
       "address": "0x7dB1c9f51F2CB456f0c5d7E2F939Fa7f6B360142",
       "chainId": 8453,
