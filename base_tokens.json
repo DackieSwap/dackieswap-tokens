@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 6
+    "patch": 7
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -76,7 +76,7 @@
     },
     {
       "name": "DACKIE-ETH LP",
-      "symbol": "DACKIETH",
+      "symbol": "DACKIE-ETH LP",
       "address": "0x7dB1c9f51F2CB456f0c5d7E2F939Fa7f6B360142",
       "chainId": 8453,
       "decimals": 18,
