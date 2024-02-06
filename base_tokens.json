@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -81,6 +81,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x7dB1c9f51F2CB456f0c5d7E2F939Fa7f6B360142.png"
+    },
+    {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452.png"
     }
   ]
 }
