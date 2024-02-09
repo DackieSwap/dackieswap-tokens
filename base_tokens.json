@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 11
+    "patch": 12
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -113,6 +113,30 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x00000000aaF9055749845C6851a823ba7a58ec21.png"
+    },
+    {
+      "name": "Toshi",
+      "symbol": "TOSHI",
+      "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4.png"
+    },
+    {
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png"
+    },
+    {
+      "name": "The Doge NFT",
+      "symbol": "DOG",
+      "address": "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6.png"
     }
   ]
 }
