@@ -1,0 +1,54 @@
+{
+  "name": "ARB Mainnet Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8.png"
+    },
+    {
+      "name": "Dackie Token",
+      "symbol": "DACKIE",
+      "address": "0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA.png"
+    },
+    {
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "address": "0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa.png"
+    }
+  ]
+}
