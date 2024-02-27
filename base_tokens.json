@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 13
+    "patch": 14
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -137,6 +137,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6.png"
+    },
+    {
+      "name": "Mochi",
+      "symbol": "MOCHI",
+      "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50.png"
     }
   ]
 }
