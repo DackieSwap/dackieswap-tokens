@@ -1,0 +1,30 @@
+{
+  "name": "Blast Mainnet Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000004",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0x4200000000000000000000000000000000000004.png"
+    },
+    {
+      "name": "USDB",
+      "symbol": "USDB",
+      "address": "0x4300000000000000000000000000000000000003",
+      "chainId": 10,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0x4300000000000000000000000000000000000003.png"
+    }
+  ]
+}
