@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -65,6 +65,38 @@
       "chainId": 10,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb.png"
+    },
+    {
+      "name": "Synth sUSD",
+      "symbol": "sUSD",
+      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9.png"
+    },
+    {
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4.png"
+    },
+    {
+      "name": "LERNITAS",
+      "symbol": "2192",
+      "address": "0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D.png"
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1.png"
     }
   ]
 }
