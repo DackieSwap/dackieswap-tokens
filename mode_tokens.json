@@ -1,0 +1,30 @@
+{
+  "name": "Mode Mainnet Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+      "chainId": 34443,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xd988097fb8612cc24eeC14542bC03424c656005f.png"
+    }
+  ]
+}
