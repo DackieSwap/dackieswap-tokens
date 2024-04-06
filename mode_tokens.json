@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -25,6 +25,22 @@
       "chainId": 34443,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xd988097fb8612cc24eeC14542bC03424c656005f.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+      "chainId": 34443,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xf0F161fDA2712DB8b566946122a5af183995e2eD.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+      "chainId": 34443,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF.png"
     }
   ]
 }
