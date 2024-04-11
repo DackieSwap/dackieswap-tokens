@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -81,6 +81,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x5979D7b546E38E414F7E9822514be443A4800529.png"
+    },
+    {
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe.png"
     }
   ]
 }

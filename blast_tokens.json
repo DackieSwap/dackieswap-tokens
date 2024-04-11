@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -17,6 +17,14 @@
       "chainId": 81457,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0x4300000000000000000000000000000000000004.png"
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
     },
     {
       "name": "USDB",
