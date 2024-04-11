@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -17,6 +17,22 @@
       "chainId": 34443,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+    },
+    {
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5.png"
     },
     {
       "name": "USD Coin",
