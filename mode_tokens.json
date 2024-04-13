@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -57,6 +57,14 @@
       "chainId": 34443,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF.png"
+    },
+    {
+      "name": "MoChadCoin",
+      "symbol": "MOCHAD",
+      "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e.png"
     }
   ]
 }
