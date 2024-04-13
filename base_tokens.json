@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 17
+    "patch": 18
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -153,6 +153,30 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x83A9dF09b4896633dc38939ae0A9568cE4Ca7579.png"
+    },
+    {
+      "name": "Brett",
+      "symbol": "BRETT",
+      "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x532f27101965dd16442E59d40670FaF5eBB142E4.png"
+    },
+    {
+      "name": "toby",
+      "symbol": "toby",
+      "address": "0xb8D98a102b0079B69FFbc760C8d857A31653e56e",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xb8D98a102b0079B69FFbc760C8d857A31653e56e.png"
+    },
+    {
+      "name": "Based Shiba Inu",
+      "symbol": "BSHIB",
+      "address": "0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA.png"
     }
   ]
 }
