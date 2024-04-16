@@ -1,0 +1,38 @@
+{
+  "name": "X Layer Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/196/tokens/0xe538905cf8410324e03A5A23C1c177a474D59b2b.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+      "chainId": 196,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/196/tokens/0x74b7F16337b8972027F6196A17a631aC6dE26d22.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+      "chainId": 196,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/196/tokens/0x1E4a5963aBFD975d8c9021ce480b42188849D41d.png"
+    }
+  ]
+}
