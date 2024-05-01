@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -17,6 +17,14 @@
       "chainId": 196,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/196/tokens/0xe538905cf8410324e03A5A23C1c177a474D59b2b.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/196/tokens/0x5A77f1443D16ee5761d310e38b62f77f726bC71c.png"
     },
     {
       "name": "USD Coin",
