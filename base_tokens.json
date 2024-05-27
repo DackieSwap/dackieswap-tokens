@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 19
+    "patch": 20
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -185,6 +185,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA.png"
+    },
+    {
+      "name": "AEROBUD",
+      "symbol": "AEROBUD",
+      "address": "0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d.png"
     }
   ]
 }
