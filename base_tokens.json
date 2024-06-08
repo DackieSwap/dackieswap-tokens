@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 20
+    "patch": 21
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -193,6 +193,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d.png"
+    },
+    {
+      "name": "BOKU",
+      "symbol": "Based Goku",
+      "address": "0x33ba7473AF7AF01B78D7D5d53bB61E150E450014",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x33ba7473AF7AF01B78D7D5d53bB61E150E450014.png"
     }
   ]
 }
