@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -201,6 +201,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x33ba7473AF7AF01B78D7D5d53bB61E150E450014.png"
+    },
+    {
+      "name": "BUILD",
+      "symbol": "BUILD",
+      "address": "0x3C281A39944a2319aA653D81Cfd93Ca10983D234",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3C281A39944a2319aA653D81Cfd93Ca10983D234.png"
     }
   ]
 }
