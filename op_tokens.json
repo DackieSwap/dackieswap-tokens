@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -105,6 +105,14 @@
       "chainId": 10,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1.png"
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+      "chainId": 10,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
     }
   ]
 }
