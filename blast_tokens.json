@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -49,6 +49,14 @@
       "chainId": 81457,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0x59DEBED8D46a0cB823D8BE8b957adD987eAd39aa.png"
+    },
+    {
+      "name": "Blast",
+      "symbol": "BLAST",
+      "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+      "chainId": 81457,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad.png"
     }
   ]
 }
