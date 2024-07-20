@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -217,6 +217,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+    },
+    {
+      "name": "BaseCTO",
+      "symbol": "CTO",
+      "address": "0x2075f6E2147d4AC26036C9B4084f8E28b324397d",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2075f6E2147d4AC26036C9B4084f8E28b324397d.png"
     }
   ]
 }
