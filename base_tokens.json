@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -225,6 +225,22 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2075f6E2147d4AC26036C9B4084f8E28b324397d.png"
+    },
+    {
+      "name": "Mister Miggles",
+      "symbol": "MIGGLES",
+      "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d.png"
+    },
+    {
+      "name": "ChompCoin",
+      "symbol": "CHOMP",
+      "address": "0xebfF2db643Cf955247339c8c6bCD8406308ca437",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xebfF2db643Cf955247339c8c6bCD8406308ca437.png"
     }
   ]
 }
