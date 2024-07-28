@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -27,7 +27,7 @@
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84532/tokens/0x009d17f23E38524258F6184834616b53F1b864ae.png"
     },
     {
-      "name": "Dackie Verse Token",
+      "name": "DackieVerse Token",
       "symbol": "DVS",
       "address": "0x79e812F562c25FBCb4A6B31dC4a69B7753c31213",
       "chainId": 84532,
