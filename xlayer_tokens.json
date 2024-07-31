@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -41,6 +41,22 @@
       "chainId": 196,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/196/tokens/0x1E4a5963aBFD975d8c9021ce480b42188849D41d.png"
+    },
+    {
+      "name": "Dackie",
+      "symbol": "DACKIE",
+      "address": "0xd564276F9DC4201FbC8a836e70874ab1B769bf2A",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/196/tokens/0xd564276F9DC4201FbC8a836e70874ab1B769bf2A.png"
+    },
+    {
+      "name": "Quack",
+      "symbol": "QUACK",
+      "address": "0x412080969E8D7cCFF8C78B4CC0A588e4d8786F27",
+      "chainId": 196,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/196/tokens/0x412080969E8D7cCFF8C78B4CC0A588e4d8786F27.png"
     }
   ]
 }
