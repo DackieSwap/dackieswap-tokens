@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -49,6 +49,14 @@
       "chainId": 84532,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84532/tokens/0xAfF0fc0aebBFbeB729aB9204470ad4F97B7f16D1.png"
+    },
+    {
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "address": "0xc88d741a7391cabB141b106b441B988FBc7C2917",
+      "chainId": 84532,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/84532/tokens/0xc88d741a7391cabB141b106b441B988FBc7C2917.png"
     }
   ]
 }
