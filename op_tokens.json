@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -91,14 +91,6 @@
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4.png"
     },
     {
-      "name": "LERNITAS",
-      "symbol": "2192",
-      "address": "0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D",
-      "chainId": 10,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x3Ed9AcAac7Bd974eB83a8eA6432a239e3C829D5D.png"
-    },
-    {
       "name": "Worldcoin",
       "symbol": "WLD",
       "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
@@ -121,6 +113,14 @@
       "chainId": 10,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+    },
+    {
+      "name": "Dackie USD",
+      "symbol": "dckUSD",
+      "address": "0x1d01aAe6ef5D13406fdabAb0e6c12Fb862e342c5",
+      "chainId": 10,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x1d01aAe6ef5D13406fdabAb0e6c12Fb862e342c5.png"
     }
   ]
 }

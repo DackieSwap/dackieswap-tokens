@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -49,6 +49,14 @@
       "chainId": 2525,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/2525/tokens/0x9790713770039CeFcf4FAaf076E2846c9B7a4630.png"
+    },
+    {
+      "name": "Dackie USD",
+      "symbol": "dckUSD",
+      "address": "0x5c326deB503aEAc224bE79E9eADad3BEcCC514B6",
+      "chainId": 2525,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/2525/tokens/0x5c326deB503aEAc224bE79E9eADad3BEcCC514B6.png"
     }
   ]
 }
