@@ -1,0 +1,86 @@
+{
+  "name": "Linea Mainnet Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f.png"
+    },
+    {
+      "name": "USDC Linea Bridged",
+      "symbol": "USDC.e",
+      "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+      "chainId": 59144,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x176211869cA2b568f2A7D4EE941E073a821EE1ff.png"
+    },
+    {
+      "name": "Tether USDT",
+      "symbol": "USDT",
+      "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+      "chainId": 59144,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0xA219439258ca9da29E9Cc4cE5596924745e12B93.png"
+    },
+    {
+      "name": "Dackie",
+      "symbol": "DACKIE",
+      "address": "0x757cD583004400ee67e5cC3c7A60C6a62E3F6d30",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x757cD583004400ee67e5cC3c7A60C6a62E3F6d30.png"
+    },
+    {
+      "name": "Quack Token",
+      "symbol": "QUACK",
+      "address": "0x507940c2469e6E3B33032F1d4FF8d123BDDe2f5C",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x507940c2469e6E3B33032F1d4FF8d123BDDe2f5C.png"
+    },
+    {
+      "name": "Dackie USD",
+      "symbol": "dckUSD",
+      "address": "0xfd7353c0bcbE8eAdafE31e5256e3d4f04792A374",
+      "chainId": 59144,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0xfd7353c0bcbE8eAdafE31e5256e3d4f04792A374.png"
+    },
+    {
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6.png"
+    },
+    {
+      "name": "Renzo Restaked ETH",
+      "symbol": "ezETH",
+      "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+    },
+    {
+      "name": "rsETHWrapper",
+      "symbol": "wrsETH",
+      "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
+      "chainId": 59144,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0xD2671165570f41BBB3B0097893300b6EB6101E6C.png"
+    }
+  ]
+}
