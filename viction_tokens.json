@@ -1,0 +1,70 @@
+{
+  "name": "Viction Mainnet Zone",
+  "timestamp": "2023-06-14T11:45:09Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped VIC",
+      "symbol": "WVIC",
+      "address": "0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/88/tokens/0xC054751BdBD24Ae713BA3Dc9Bd9434aBe2abc1ce.png"
+    },
+    {
+      "name": "Dackie USD",
+      "symbol": "dckUSD",
+      "address": "0x5637991Aa4D7f016AcB7634129b0FB18c23d5D17",
+      "chainId": 88,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/88/tokens/0x5637991Aa4D7f016AcB7634129b0FB18c23d5D17.png"
+    },
+    {
+      "name": "Dackie",
+      "symbol": "DACKIE",
+      "address": "0xaEdc38bD52b0380b2Af4980948925734fD54FbF4",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/88/tokens/0xaEdc38bD52b0380b2Af4980948925734fD54FbF4.png"
+    },
+    {
+      "name": "Quack",
+      "symbol": "QUACK",
+      "address": "0xf79A36F6f440392C63AD61252a64d5d3C43F860D",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/88/tokens/0xf79A36F6f440392C63AD61252a64d5d3C43F860D.png"
+    },
+    {
+      "name": "Coin98",
+      "symbol": "C98",
+      "address": "0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/88/tokens/0x0Fd0288AAAE91eaF935e2eC14b23486f86516c8C.png"
+    },
+    {
+      "name": "Saros",
+      "symbol": "SAROS",
+      "address": "0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/88/tokens/0xB786D9c8120D311b948cF1e5Aa48D8fBacf477E2.png"
+    },
+    {
+      "name": "USDV",
+      "symbol": "USDV",
+      "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/88/tokens/0x323665443CEf804A3b5206103304BD4872EA4253.png"
+    }
+  ]
+}
