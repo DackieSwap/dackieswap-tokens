@@ -1,0 +1,38 @@
+{
+  "name": "Unichain Sepolia Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 1301,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/1301/tokens/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "Dackie",
+      "symbol": "DACKIE",
+      "address": "0x8DdA4B9f86B4eD14B7794Bc41648E7FDA40a81Bd",
+      "chainId": 1301,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/1301/tokens/0x8DdA4B9f86B4eD14B7794Bc41648E7FDA40a81Bd.png"
+    },
+    {
+      "name": "dUSD",
+      "symbol": "dUSD",
+      "address": "0x009d17f23E38524258F6184834616b53F1b864ae",
+      "chainId": 1301,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/1301/tokens/0x009d17f23E38524258F6184834616b53F1b864ae.png"
+    },
+  ]
+}
