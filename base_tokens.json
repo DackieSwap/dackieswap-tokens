@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 14
+    "patch": 15
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -178,17 +178,6 @@
       }
     },
     {
-      "name": "toby",
-      "symbol": "toby",
-      "address": "0xb8D98a102b0079B69FFbc760C8d857A31653e56e",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xb8D98a102b0079B69FFbc760C8d857A31653e56e.png",
-      "extensions": {
-        "external": true
-      }
-    },
-    {
       "name": "Bento",
       "symbol": "BENTO",
       "address": "0x9DE16c805A3227b9b92e39a446F9d56cf59fe640",
@@ -261,17 +250,6 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d.png",
-      "extensions": {
-        "external": true
-      }
-    },
-    {
-      "name": "ChompCoin",
-      "symbol": "CHOMP",
-      "address": "0xebfF2db643Cf955247339c8c6bCD8406308ca437",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xebfF2db643Cf955247339c8c6bCD8406308ca437.png",
       "extensions": {
         "external": true
       }
