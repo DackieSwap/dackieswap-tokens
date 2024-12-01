@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 9
+    "patch": 12
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -48,7 +48,10 @@
       "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x912CE59144191C1204E64559FE8253a0e49E6548.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x912CE59144191C1204E64559FE8253a0e49E6548.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Dackie Token",
@@ -72,7 +75,10 @@
       "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Wrapped liquid staked Ether 2.0",
@@ -80,7 +86,10 @@
       "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x5979D7b546E38E414F7E9822514be443A4800529.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x5979D7b546E38E414F7E9822514be443A4800529.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Wrapped eETH",
@@ -88,7 +97,10 @@
       "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Renzo Restaked ETH",
@@ -96,7 +108,10 @@
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "ChainLink Token",
@@ -104,7 +119,10 @@
       "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "LayerZero",
@@ -112,7 +130,10 @@
       "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
       "chainId": 42161,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x6985884C4392D348587B19cb9eAAf157F13271cd.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Dackie USD",

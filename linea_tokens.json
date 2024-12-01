@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -64,7 +64,10 @@
       "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Renzo Restaked ETH",
@@ -72,7 +75,10 @@
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "rsETHWrapper",
@@ -80,7 +86,10 @@
       "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
       "chainId": 59144,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0xD2671165570f41BBB3B0097893300b6EB6101E6C.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/59144/tokens/0xD2671165570f41BBB3B0097893300b6EB6101E6C.png",
+      "extensions": {
+        "external": true
+      }
     }
   ]
 }

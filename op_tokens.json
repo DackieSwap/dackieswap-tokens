@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -40,7 +40,10 @@
       "address": "0x4200000000000000000000000000000000000042",
       "chainId": 10,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x4200000000000000000000000000000000000042.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x4200000000000000000000000000000000000042.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Tether USD",
@@ -104,7 +107,10 @@
       "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
       "chainId": 10,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x6985884C4392D348587B19cb9eAAf157F13271cd.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Renzo Restaked ETH",
@@ -112,7 +118,10 @@
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "chainId": 10,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Dackie USD",

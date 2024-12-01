@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 10
+    "patch": 14
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -120,7 +120,10 @@
       "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Degen",
@@ -128,7 +131,10 @@
       "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "The Doge NFT",
@@ -136,7 +142,10 @@
       "address": "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Mochi",
@@ -144,7 +153,10 @@
       "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Meowiee From JP",
@@ -160,7 +172,10 @@
       "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x532f27101965dd16442E59d40670FaF5eBB142E4.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x532f27101965dd16442E59d40670FaF5eBB142E4.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "toby",
@@ -168,7 +183,10 @@
       "address": "0xb8D98a102b0079B69FFbc760C8d857A31653e56e",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xb8D98a102b0079B69FFbc760C8d857A31653e56e.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xb8D98a102b0079B69FFbc760C8d857A31653e56e.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Bento",
@@ -176,7 +194,10 @@
       "address": "0x9DE16c805A3227b9b92e39a446F9d56cf59fe640",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x9DE16c805A3227b9b92e39a446F9d56cf59fe640.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x9DE16c805A3227b9b92e39a446F9d56cf59fe640.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Based Shiba Inu",
@@ -184,7 +205,10 @@
       "address": "0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "AEROBUD",
@@ -192,15 +216,10 @@
       "address": "0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d.png"
-    },
-    {
-      "name": "Based Goku",
-      "symbol": "BOKU",
-      "address": "0x33ba7473AF7AF01B78D7D5d53bB61E150E450014",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x33ba7473AF7AF01B78D7D5d53bB61E150E450014.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "BUILD",
@@ -208,7 +227,10 @@
       "address": "0x3C281A39944a2319aA653D81Cfd93Ca10983D234",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3C281A39944a2319aA653D81Cfd93Ca10983D234.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3C281A39944a2319aA653D81Cfd93Ca10983D234.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "LayerZero",
@@ -216,7 +238,10 @@
       "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x6985884C4392D348587B19cb9eAAf157F13271cd.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "BaseCTO",
@@ -224,7 +249,10 @@
       "address": "0x2075f6E2147d4AC26036C9B4084f8E28b324397d",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2075f6E2147d4AC26036C9B4084f8E28b324397d.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2075f6E2147d4AC26036C9B4084f8E28b324397d.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Mister Miggles",
@@ -232,7 +260,10 @@
       "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xB1a03EdA10342529bBF8EB700a06C60441fEf25d.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "ChompCoin",
@@ -240,7 +271,10 @@
       "address": "0xebfF2db643Cf955247339c8c6bCD8406308ca437",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xebfF2db643Cf955247339c8c6bCD8406308ca437.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xebfF2db643Cf955247339c8c6bCD8406308ca437.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Dackie USD",
@@ -272,7 +306,10 @@
       "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "tokenbot",
@@ -280,7 +317,10 @@
       "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "luminous",
@@ -288,7 +328,10 @@
       "address": "0x0fD7a301B51d0A83FCAf6718628174D527B373b6",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0fD7a301B51d0A83FCAf6718628174D527B373b6.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0fD7a301B51d0A83FCAf6718628174D527B373b6.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Super Anon",
@@ -296,7 +339,10 @@
       "address": "0x0Db510e79909666d6dEc7f5e49370838c16D950f",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0Db510e79909666d6dEc7f5e49370838c16D950f.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0Db510e79909666d6dEc7f5e49370838c16D950f.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Luna by Virtuals",
@@ -304,7 +350,10 @@
       "address": "0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Mog Coin",
@@ -312,7 +361,10 @@
       "address": "0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71.png",
+      "extensions": {
+        "external": true
+      }
     }
   ]
 }

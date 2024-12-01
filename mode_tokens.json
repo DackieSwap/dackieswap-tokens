@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 8
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -24,7 +24,10 @@
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "chainId": 34443,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Wrapped eETH",
@@ -32,7 +35,10 @@
       "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
       "chainId": 34443,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "USD Coin",
@@ -56,7 +62,10 @@
       "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
       "chainId": 34443,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "MoChadCoin",
@@ -64,7 +73,10 @@
       "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
       "chainId": 34443,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Mode",
@@ -72,7 +84,10 @@
       "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
       "chainId": 34443,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xDfc7C877a950e49D2610114102175A06C2e3167a.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xDfc7C877a950e49D2610114102175A06C2e3167a.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Dackie",

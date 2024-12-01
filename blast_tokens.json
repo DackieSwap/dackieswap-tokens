@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -24,7 +24,10 @@
       "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "USDB",
@@ -56,7 +59,10 @@
       "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
       "chainId": 81457,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/81457/tokens/0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Dackie USD",
