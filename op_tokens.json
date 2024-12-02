@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -75,7 +75,10 @@
       "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
       "chainId": 10,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Synth sUSD",
@@ -91,7 +94,10 @@
       "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
       "chainId": 10,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "Worldcoin",
@@ -99,7 +105,10 @@
       "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
       "chainId": 10,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1.png"
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/10/tokens/0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1.png",
+      "extensions": {
+        "external": true
+      }
     },
     {
       "name": "LayerZero",
