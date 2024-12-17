@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 12
+    "patch": 13
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -142,6 +142,17 @@
       "chainId": 42161,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x711B771C7C443EbB695e4b3495c337fDAF37Be11.png"
+    },
+    {
+      "name": "Graph Token",
+      "symbol": "GRT",
+      "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/42161/tokens/0x9623063377AD1B27544C965cCd7342f7EA7e88C7.png",
+      "extensions": {
+        "external": true
+      }
     }
   ]
 }
