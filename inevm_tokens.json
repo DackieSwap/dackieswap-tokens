@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -35,7 +35,7 @@
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/2525/tokens/0x97423A68BAe94b5De52d767a17aBCc54c157c0E5.png"
     },
     {
-      "name": "Dackie",
+      "name": "DACKIE Token (legacy)",
       "symbol": "DACKIE",
       "address": "0x2243EEf144c3914642eeE7694c5A0A2C9126a893",
       "chainId": 2525,
