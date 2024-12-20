@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 17
+    "patch": 18
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -412,6 +412,14 @@
       "extensions": {
         "external": true
       }
+    },
+    {
+      "name": "DACKIE Superchain",
+      "symbol": "DACKIE",
+      "address": "0x73326b4d0225c429bed050c11C4422d91470AaF4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x73326b4d0225c429bed050c11C4422d91470AaF4.png"
     }
   ]
 }

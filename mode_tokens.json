@@ -3,8 +3,8 @@
   "timestamp": "2023-08-01T23:11:11Z",
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 10
+    "minor": 1,
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -112,6 +112,14 @@
       "chainId": 34443,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0xFDF91D8289E30bBF9A34Fb3e0246fd98d1914C2f.png"
+    },
+    {
+      "name": "DACKIE Superchain",
+      "symbol": "DACKIE",
+      "address": "0x73326b4d0225c429bed050c11C4422d91470AaF4",
+      "chainId": 34443,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/34443/tokens/0x73326b4d0225c429bed050c11C4422d91470AaF4.png"
     }
   ]
 }
