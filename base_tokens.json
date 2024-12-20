@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 16
+    "patch": 17
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -398,6 +398,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x731814e491571A2e9eE3c5b1F7f3b962eE8f4870.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Odos Token",
+      "symbol": "ODOS",
+      "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xca73ed1815e5915489570014e024b7EbE65dE679.png",
       "extensions": {
         "external": true
       }
