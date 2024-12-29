@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -436,6 +436,28 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x20ef84969f6d81Ff74AE4591c331858b20AD82CD.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Alchemist Accelerate",
+      "symbol": "ALCH",
+      "address": "0x2b0772BEa2757624287ffc7feB92D03aeAE6F12D",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2b0772BEa2757624287ffc7feB92D03aeAE6F12D.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "DR3AM Fund",
+      "symbol": "FDREAM",
+      "address": "0x0521AaA7C96E25afeE79FDd4f1Bb48F008aE4eac",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0521AaA7C96E25afeE79FDd4f1Bb48F008aE4eac.png",
       "extensions": {
         "external": true
       }
