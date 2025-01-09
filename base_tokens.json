@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -458,6 +458,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0521AaA7C96E25afeE79FDd4f1Bb48F008aE4eac.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "3 Beras Capital",
+      "symbol": "3BC",
+      "address": "0x3E64cD8Fd4d2FAe3D7f4710817885B0941838d0B",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3E64cD8Fd4d2FAe3D7f4710817885B0941838d0B.png",
       "extensions": {
         "external": true
       }
