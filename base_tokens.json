@@ -4,11 +4,16 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
-  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "keywords": [
+    "dackieswap",
+    "tokens",
+    "default",
+    "official"
+  ],
   "tokens": [
     {
       "name": "Wrapped ETH",
@@ -469,6 +474,61 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3E64cD8Fd4d2FAe3D7f4710817885B0941838d0B.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "BankrCoin",
+      "symbol": "BNKR",
+      "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Based Fartcoin",
+      "symbol": "FARTCOIN",
+      "address": "0x2f6c17fa9f9bC3600346ab4e48C0701e1d5962AE",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2f6c17fa9f9bC3600346ab4e48C0701e1d5962AE.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Dickbutt",
+      "symbol": "DICKBUTT",
+      "address": "0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Native",
+      "symbol": "NATIVE",
+      "address": "0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "clankfun",
+      "symbol": "CLANKFUN",
+      "address": "0x1d008f50FB828eF9DEbBBEAe1B71FfFe929bf317",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x1d008f50FB828eF9DEbBBEAe1B71FfFe929bf317.png",
       "extensions": {
         "external": true
       }
