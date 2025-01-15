@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -514,10 +514,10 @@
     {
       "name": "Native",
       "symbol": "NATIVE",
-      "address": "0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf",
+      "address": "0x20DD04c17AFD5c9a8b3f2cdacaa8Ee7907385BEF",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2D57C47BC5D2432FEEEdf2c9150162A9862D3cCf.png",
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x20DD04c17AFD5c9a8b3f2cdacaa8Ee7907385BEF.png",
       "extensions": {
         "external": true
       }
