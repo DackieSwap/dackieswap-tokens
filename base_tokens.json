@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -436,7 +436,7 @@
     },
     {
       "name": "AicroStrategy",
-      "symbol": "$AiSTR",
+      "symbol": "AiSTR",
       "address": "0x20ef84969f6d81Ff74AE4591c331858b20AD82CD",
       "chainId": 8453,
       "decimals": 18,
