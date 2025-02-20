@@ -3,8 +3,8 @@
   "timestamp": "2023-08-01T23:11:11Z",
   "version": {
     "major": 0,
-    "minor": 3,
-    "patch": 9
+    "minor": 4,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -606,6 +606,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "KAITO",
+      "symbol": "KAITO",
+      "address": "0x98d0baa52b2D063E780DE12F615f963Fe8537553",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x98d0baa52b2D063E780DE12F615f963Fe8537553.png",
       "extensions": {
         "external": true
       }
