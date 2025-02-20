@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -551,6 +551,61 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "FROC",
+      "symbol": "FROC",
+      "address": "0x3C8cd0dB9a01EfA063a7760267b822A129bc7DCA",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3C8cd0dB9a01EfA063a7760267b822A129bc7DCA.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Flayer",
+      "symbol": "FLAY",
+      "address": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Flaunchy",
+      "symbol": "FLNCHY",
+      "address": "0x1c93d155bD388241F9AB5Df500D69eb529cE9583",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x1c93d155bD388241F9AB5Df500D69eb529cE9583.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "ABYSS",
+      "symbol": "ABYSS",
+      "address": "0x20ad9d807644Fc6d89F680851253A1DdC174dC1c",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x20ad9d807644Fc6d89F680851253A1DdC174dC1c.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "B3 (Base)",
+      "symbol": "B3",
+      "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3.png",
       "extensions": {
         "external": true
       }
