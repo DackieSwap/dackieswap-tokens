@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -617,6 +617,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x98d0baa52b2D063E780DE12F615f963Fe8537553.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "DebtReliefBot",
+      "symbol": "DRB",
+      "address": "0x3ec2156D4c0A9CBdAB4a016633b7BcF6a8d68Ea2",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3ec2156D4c0A9CBdAB4a016633b7BcF6a8d68Ea2.png",
       "extensions": {
         "external": true
       }
