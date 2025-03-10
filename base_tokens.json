@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -639,6 +639,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x937a1cFAF0A3d9f5Dc4D0927F72ee5e3e5F82a00.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Grokster",
+      "symbol": "GRK",
+      "address": "0x2E2cc4DfCe60257F091980631e75f5c436b71C87",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2E2cc4DfCe60257F091980631e75f5c436b71C87.png",
       "extensions": {
         "external": true
       }
