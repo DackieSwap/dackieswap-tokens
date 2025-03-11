@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -650,6 +650,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2E2cc4DfCe60257F091980631e75f5c436b71C87.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Pawsome",
+      "symbol": "PAWS",
+      "address": "0x0Acb8f6a6f1a8DF2b4846db0352cAaA01d854bF8",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x0Acb8f6a6f1a8DF2b4846db0352cAaA01d854bF8.png",
       "extensions": {
         "external": true
       }
