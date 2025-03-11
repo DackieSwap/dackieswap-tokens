@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -683,6 +683,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x04175B1f982b8C8444f238Ac0AaE59f029e21099.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "TN100x",
+      "symbol": "TN100x",
+      "address": "0x5B5dee44552546ECEA05EDeA01DCD7Be7aa6144A",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x5B5dee44552546ECEA05EDeA01DCD7Be7aa6144A.png",
       "extensions": {
         "external": true
       }
