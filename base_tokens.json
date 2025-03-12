@@ -699,7 +699,7 @@
       }
     },
     {
-      "name": "$cool",
+      "name": "cool",
       "symbol": "$cool",
       "address": "0x3080cE06eee2869E1b0287ad0De73f9421F977a3",
       "chainId": 8453,
