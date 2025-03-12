@@ -666,17 +666,6 @@
       }
     },
     {
-      "name": "debtreliefai",
-      "symbol": "drai",
-      "address": "0x2bc08A6583F9bb980f26114c6B513252942E946F",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x2bc08A6583F9bb980f26114c6B513252942E946F.png",
-      "extensions": {
-        "external": true
-      }
-    },
-    {
       "name": "BankrX",
       "symbol": "BNXR",
       "address": "0x04175B1f982b8C8444f238Ac0AaE59f029e21099",
@@ -699,7 +688,7 @@
       }
     },
     {
-      "name": "cool",
+      "name": "$cool",
       "symbol": "$cool",
       "address": "0x3080cE06eee2869E1b0287ad0De73f9421F977a3",
       "chainId": 8453,
