@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 6
+    "patch": 7
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -694,6 +694,28 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x5B5dee44552546ECEA05EDeA01DCD7Be7aa6144A.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "$cool",
+      "symbol": "$cool",
+      "address": "0x3080cE06eee2869E1b0287ad0De73f9421F977a3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3080cE06eee2869E1b0287ad0De73f9421F977a3.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "public",
+      "symbol": "$public",
+      "address": "0x3A1609CEbE67C1d303954B5fb907bEF36213034B",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3A1609CEbE67C1d303954B5fb907bEF36213034B.png",
       "extensions": {
         "external": true
       }
