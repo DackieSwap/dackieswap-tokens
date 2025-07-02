@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 4,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -727,6 +727,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3A1609CEbE67C1d303954B5fb907bEF36213034B.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Everybody Needs Base",
+      "symbol": "ENB",
+      "address": "0xF73978B3A7D1d4974abAE11f696c1b4408c027A0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xF73978B3A7D1d4974abAE11f696c1b4408c027A0.png",
       "extensions": {
         "external": true
       }
