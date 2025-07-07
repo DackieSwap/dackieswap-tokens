@@ -1,0 +1,30 @@
+{
+  "name": "Unichain Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 130,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/130/tokens/0x4200000000000000000000000000000000000006.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+      "chainId": 130,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/130/tokens/0x078D782b760474a361dDA0AF3839290b0EF57AD6.png"
+    }
+  ]
+}
