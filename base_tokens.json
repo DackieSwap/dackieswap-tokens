@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -760,6 +760,28 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x38D6311Ea9C0a7F3E104a7C6E706E155F124C3ad.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "DEN",
+      "symbol": "DEN",
+      "address": "0xFfE43Ff4b982C4a4A958Ad05F87cB454f1Ef96fb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xFfE43Ff4b982C4a4A958Ad05F87cB454f1Ef96fb.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "HANI",
+      "symbol": "HANI",
+      "address": "0x10B3d599582E03c64d2cB6b0276008F140F70aF6",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x10B3d599582E03c64d2cB6b0276008F140F70aF6.png",
       "extensions": {
         "external": true
       }
