@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -799,6 +799,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xC6e3f39315257a823cE7ac660011e6F728D9f509.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Syndicate",
+      "symbol": "SYND",
+      "address": "0x11dC28D01984079b7efE7763b533e6ed9E3722B9",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x11dC28D01984079b7efE7763b533e6ed9E3722B9.png",
       "extensions": {
         "external": true
       }
