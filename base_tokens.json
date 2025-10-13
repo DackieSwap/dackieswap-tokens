@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -810,6 +810,28 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x11dC28D01984079b7efE7763b533e6ed9E3722B9.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "SKYCASTLE",
+      "symbol": "SKY",
+      "address": "0x9b5037b68c6ed686a1f433e5eef9513bb1801b07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x9b5037b68c6ed686a1f433e5eef9513bb1801b07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Cody",
+      "symbol": "CODY",
+      "address": "0x3977fc913db86b01a257232c568317798b903b07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3977fc913db86b01a257232c568317798b903b07.png",
       "extensions": {
         "external": true
       }
