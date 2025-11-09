@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 6
+    "patch": 7
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -832,6 +832,28 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3977fc913db86b01a257232c568317798b903b07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "VPay by Virtuals",
+      "symbol": "VPAY",
+      "address": "0x98aC5B33A4Ef1151f138941c979211599c2fF953",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x98aC5B33A4Ef1151f138941c979211599c2fF953.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "AInalyst by Virtuals",
+      "symbol": "AIN",
+      "address": "0xE47dD5197c5b5194cbE10b0333eD45570fB63eB0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xE47dD5197c5b5194cbE10b0333eD45570fB63eB0.png",
       "extensions": {
         "external": true
       }
