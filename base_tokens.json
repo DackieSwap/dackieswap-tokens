@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -865,6 +865,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xc8540DB1acaEae9F58CC85E24b3476511a546441.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Cachorro",
+      "symbol": "CARO",
+      "address": "0x580b7287d3404126ead1600f869fcf2e3ab00261",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x580b7287d3404126ead1600f869fcf2e3ab00261.png",
       "extensions": {
         "external": true
       }
