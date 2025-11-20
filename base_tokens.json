@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 10
+    "patch": 11
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -887,6 +887,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xD09cf0982A32DD6856e12d6BF2F08A822eA5D91D.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "jesse",
+      "symbol": "jesse",
+      "address": "0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59.png",
       "extensions": {
         "external": true
       }
