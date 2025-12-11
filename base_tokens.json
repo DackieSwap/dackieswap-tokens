@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 11
+    "patch": 12
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -898,6 +898,50 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Sequel",
+      "symbol": "MOVIE",
+      "address": "0xa3109f24185ce81b89b9ceead7f81e3b07a61b07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xa3109f24185ce81b89b9ceead7f81e3b07a61b07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Surge",
+      "symbol": "SURGE",
+      "address": "0x463fb81f4597cd6996e7925da60640e22ca53b07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x463fb81f4597cd6996e7925da60640e22ca53b07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "BETRMINT",
+      "symbol": "BETR",
+      "address": "0x051024b653e8ec69e72693f776c41c2a9401fb07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x051024b653e8ec69e72693f776c41c2a9401fb07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "HOUSE",
+      "symbol": "HOUSE",
+      "address": "0xf25cc9c024036dec8fc983e88253549667ee5b07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xf25cc9c024036dec8fc983e88253549667ee5b07.png",
       "extensions": {
         "external": true
       }
