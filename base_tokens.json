@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 12
+    "patch": 13
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -942,6 +942,28 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xf25cc9c024036dec8fc983e88253549667ee5b07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "REPPO",
+      "symbol": "REPPO",
+      "address": "0xff8104251e7761163fac3211ef5583fb3f8583d6",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xff8104251e7761163fac3211ef5583fb3f8583d6.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "SANTA",
+      "symbol": "SANTA",
+      "address": "0x815269d17c10f0f3df7249370e0c1b9efe781aa8",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x815269d17c10f0f3df7249370e0c1b9efe781aa8.png",
       "extensions": {
         "external": true
       }
