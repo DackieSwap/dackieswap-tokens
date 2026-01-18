@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 14
+    "patch": 15
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -964,6 +964,28 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x815269d17c10f0f3df7249370e0c1b9efe781aa8.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "claude",
+      "symbol": "claude",
+      "address": "0x9cb961dD3169e41726e4417d1a6EadeD333B6b07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x9cb961dD3169e41726e4417d1a6EadeD333B6b07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Thoughtcoin",
+      "symbol": "THINK",
+      "address": "0xe6eE5bc3f420d1f9eCA60656eF6b307c04E42B07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xe6eE5bc3f420d1f9eCA60656eF6b307c04E42B07.png",
       "extensions": {
         "external": true
       }
