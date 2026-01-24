@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 15
+    "patch": 16
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -986,6 +986,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xe6eE5bc3f420d1f9eCA60656eF6b307c04E42B07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "FUCK",
+      "symbol": "FUCK",
+      "address": "0xc8f8C5A9DfF280Cde517D197c82EE10fcB46BB07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xc8f8C5A9DfF280Cde517D197c82EE10fcB46BB07.png",
       "extensions": {
         "external": true
       }
