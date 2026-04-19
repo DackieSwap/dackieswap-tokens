@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -49,6 +49,22 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/1/tokens/0x6982508145454ce325ddbe47a25d4ec3d2311933.png"
+    },
+    {
+      "name": "Aave Token",
+      "symbol": "AAVE",
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/1/tokens/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png"
+    },
+    {
+      "name": "Asteroid Shiba",
+      "symbol": "ASTEROID",
+      "address": "0xf280b16ef293d8e534e370794ef26bf312694126",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/1/tokens/0xf280b16ef293d8e534e370794ef26bf312694126.png"
     }
   ]
 }
