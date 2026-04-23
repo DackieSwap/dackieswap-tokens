@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -1019,6 +1019,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x5f09821cbb61e09d2a83124ae0b56aaa3ae85b07.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "OpenGradient",
+      "symbol": "OPG",
+      "address": "0xfbc2051ae2265686a469421b2c5a2d5462fbf5eb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xfbc2051ae2265686a469421b2c5a2d5462fbf5eb.png",
       "extensions": {
         "external": true
       }
