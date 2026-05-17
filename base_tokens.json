@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -1041,6 +1041,39 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x3D93587F308956Dd767024325Bd62F9E95539352.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "AUTONOMOPOLY",
+      "symbol": "AUTONO",
+      "address": "0xB3D7e0c3C39A1D3F1B304663065A2F83Ddf56d8e",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xB3D7e0c3C39A1D3F1B304663065A2F83Ddf56d8e.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "redacted gdupi",
+      "symbol": "GDUPI",
+      "address": "0x9e7fC36e3cBe02bE6ec5427605945C16AC155f66",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x9e7fC36e3cBe02bE6ec5427605945C16AC155f66.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Rainbow",
+      "symbol": "RNBW",
+      "address": "0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0.png",
       "extensions": {
         "external": true
       }
