@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -1074,6 +1074,17 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0.png",
+      "extensions": {
+        "external": true
+      }
+    },
+    {
+      "name": "Capminal Compute Unit",
+      "symbol": "CAPU",
+      "address": "0x67558d3D990EA40b64fD37FBd5c4860d1f9B3a9F",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x67558d3D990EA40b64fD37FBd5c4860d1f9B3a9F.png",
       "extensions": {
         "external": true
       }
