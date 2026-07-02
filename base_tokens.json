@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 5
+    "patch": 7
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -1088,6 +1088,30 @@
       "extensions": {
         "external": true
       }
+    },
+    {
+      "name": "LETTI",
+      "symbol": "LETTI",
+      "address": "0xd99391db9c2409ac6e698a379468ccb9141faca9",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xd99391db9c2409ac6e698a379468ccb9141faca9.png"
+    },
+    {
+      "name": "Get Easy Decision",
+      "symbol": "EASY",
+      "address": "0x90367fddf2120f289cdbdabfb5f1b852a5010ca9",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x90367fddf2120f289cdbdabfb5f1b852a5010ca9.png"
+    },
+    {
+      "name": "Velvet",
+      "symbol": "VELVET",
+      "address": "0xbf927b841994731c573bdf09ceb0c6b0aa887cdd",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xbf927b841994731c573bdf09ceb0c6b0aa887cdd.png"
     }
   ]
 }
