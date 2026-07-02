@@ -1,0 +1,54 @@
+{
+  "name": "Robinhook Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "address": "0x0bd7d308f8e1639fab988df18a8011f41eacad73",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x0bd7d308f8e1639fab988df18a8011f41eacad73.png"
+    },
+    {
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "address": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+      "chainId": 4663,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x5fc5360d0400a0fd4f2af552add042d716f1d168.png"
+    },
+    {
+      "name": "Cash Cat",
+      "symbol": "CASHCAT",
+      "address": "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x020bfc650a365f8bb26819deaabf3e21291018b4.png"
+    },
+    {
+      "name": "Dog In Hood",
+      "symbol": "DIH",
+      "address": "0x17bb0c898254406b1ea2e8e99b0c263e26c9e4a4",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x17bb0c898254406b1ea2e8e99b0c263e26c9e4a4.png"
+    },
+    {
+      "name": "KITSU",
+      "symbol": "KITSU",
+      "address": "0x8d4dfaaa4198b6486e0293fec914c2b6a821d4dc",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x8d4dfaaa4198b6486e0293fec914c2b6a821d4dc.png"
+    }
+  ]
+}
