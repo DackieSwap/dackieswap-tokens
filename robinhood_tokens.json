@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -49,6 +49,22 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x8d4dfaaa4198b6486e0293fec914c2b6a821d4dc.png"
+    },
+    {
+      "name": "RAXOL",
+      "symbol": "RAXOL",
+      "address": "0xf44702b17d9abD53815F703e772F35E9c71A53af",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0xf44702b17d9abD53815F703e772F35E9c71A53af.png"
+    },
+    {
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "address": "0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31.png"
     }
   ]
 }
