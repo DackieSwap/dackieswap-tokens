@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -65,6 +65,14 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31.png"
+    },
+    {
+      "name": "ProjectVex",
+      "symbol": "VEX",
+      "address": "0x8ff92566f2e81bdd68edfaa8cde73942a723796b",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x8ff92566f2e81bdd68edfaa8cde73942a723796b.png"
     }
   ]
 }
