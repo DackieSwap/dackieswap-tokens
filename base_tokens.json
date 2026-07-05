@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -1120,6 +1120,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0xc52aedec3374422d7510e294cfaa90799595cba3.png"
+    },
+    {
+      "name": "The Bald Bull",
+      "symbol": "BRIAN",
+      "address": "0x9b88500C69CEa66c329Abd1C494319B197fb8453",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x9b88500C69CEa66c329Abd1C494319B197fb8453.png"
     }
   ]
 }
