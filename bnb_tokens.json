@@ -1,10 +1,10 @@
 {
-  "name": "BNB Chain Zone",
+  "name": "BNB Chain",
   "timestamp": "2023-08-01T23:11:11Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -97,6 +97,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/56/tokens/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
+    },
+    {
+      "name": "The Final Form Bull",
+      "symbol": "CZ",
+      "address": "0x7A848a5A8169aa6a2f603D056A749f924F504444",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/56/tokens/0x7A848a5A8169aa6a2f603D056A749f924F504444.png"
     }
   ]
 }
