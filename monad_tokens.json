@@ -1,0 +1,70 @@
+{
+  "name": "Monad Zone",
+  "timestamp": "2023-08-01T23:11:11Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://dackieswap.xyz/logo.png",
+  "keywords": ["dackieswap", "tokens", "default", "official"],
+  "tokens": [
+    {
+      "name": "GMONAD",
+      "symbol": "GMONAD",
+      "address": "0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e",
+      "chainId": 143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/143/tokens/0x7db552eeb6b77a6babe6e0a739b5382cd653cc3e.png"
+    },
+    {
+      "name": "CHOG",
+      "symbol": "CHOG",
+      "address": "0x350035555e10d9afaf1566aaebfced5ba6c27777",
+      "chainId": 143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/143/tokens/0x350035555e10d9afaf1566aaebfced5ba6c27777.png"
+    },
+    {
+      "name": "Pepe on Monad",
+      "symbol": "PEPE",
+      "address": "0xc09c8242eb21b24298303799bb5af402a2957777",
+      "chainId": 143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/143/tokens/0xc09c8242eb21b24298303799bb5af402a2957777.png"
+    },
+    {
+      "name": "ALLOCA",
+      "symbol": "ALLOCA",
+      "address": "0x1aD7052BB331A0529c1981c3EC2bC4663498A110",
+      "chainId": 143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/143/tokens/0x1aD7052BB331A0529c1981c3EC2bC4663498A110.png"
+    },
+    {
+      "name": "emonad",
+      "symbol": "emo",
+      "address": "0x81A224F8A62f52BdE942dBF23A56df77A10b7777",
+      "chainId": 143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/143/tokens/0x81A224F8A62f52BdE942dBF23A56df77A10b7777.png"
+    },
+    {
+      "name": "moncock",
+      "symbol": "moncock",
+      "address": "0x405b6330e213DED490240CbcDD64790806827777",
+      "chainId": 143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/143/tokens/0x405b6330e213DED490240CbcDD64790806827777.png"
+    },
+    {
+      "name": "m00nad",
+      "symbol": "m00n",
+      "address": "0x22cd99ec337a2811f594340a4a6e41e4a3022b07",
+      "chainId": 143,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/143/tokens/0x22cd99ec337a2811f594340a4a6e41e4a3022b07.png"
+    }
+  ]
+}
