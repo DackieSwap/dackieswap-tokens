@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -1128,6 +1128,30 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x9b88500C69CEa66c329Abd1C494319B197fb8453.png"
+    },
+    {
+      "name": "Litebeam",
+      "symbol": "LBM",
+      "address": "0x15B15FA54b629C634958E8BD639b2fc8af654974",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x15B15FA54b629C634958E8BD639b2fc8af654974.png"
+    },
+    {
+      "name": "Wake",
+      "symbol": "WAKE",
+      "address": "0x90f0039850c70Bb73416D6A118C7D3C63366Ce8D",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x90f0039850c70Bb73416D6A118C7D3C63366Ce8D.png"
+    },
+    {
+      "name": "Root Edge",
+      "symbol": "rootai",
+      "address": "0x461d3C96D170e551611f54FA466D3D74A680AbA3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x461d3C96D170e551611f54FA466D3D74A680AbA3.png"
     }
   ]
 }
