@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 6
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -89,6 +89,22 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x0856F71C65268DA154DA4413d961cb348Dc6119d.png"
+    },
+    {
+      "name": "cr33per",
+      "symbol": "cr33p",
+      "address": "0xE78D6BEd11DF7fCb033eD91924F489C70e1E9BA3",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0xE78D6BEd11DF7fCb033eD91924F489C70e1E9BA3.png"
+    },
+    {
+      "name": "HOODIE",
+      "symbol": "HOODIE",
+      "address": "0xc72c01aab5f5678dc1d6f5c6d2b417d91d402ba3",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0xc72c01aab5f5678dc1d6f5c6d2b417d91d402ba3.png"
     }
   ]
 }
