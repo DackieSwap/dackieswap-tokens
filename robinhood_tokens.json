@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -73,6 +73,14 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x8ff92566f2e81bdd68edfaa8cde73942a723796b.png"
+    },
+    {
+      "name": "Hoodrat",
+      "symbol": "HOODRAT",
+      "address": "0x8e62f281f282686fca6dcb39288069a93fc23f1c",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x8e62f281f282686fca6dcb39288069a93fc23f1c.png"
     }
   ]
 }
