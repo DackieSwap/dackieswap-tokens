@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -81,6 +81,14 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x8e62f281f282686fca6dcb39288069a93fc23f1c.png"
+    },
+    {
+      "name": "ROBIN THE HOODINI",
+      "symbol": "HOODINI",
+      "address": "0x0856F71C65268DA154DA4413d961cb348Dc6119d",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x0856F71C65268DA154DA4413d961cb348Dc6119d.png"
     }
   ]
 }
