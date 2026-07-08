@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -105,6 +105,14 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0xc72c01aab5f5678dc1d6f5c6d2b417d91d402ba3.png"
+    },
+    {
+      "name": "Stargazer AI",
+      "symbol": "STAR",
+      "address": "0x0172fD20b8E89CB577a6EDd3B800EE7b2a5B00c1",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x0172fD20b8E89CB577a6EDd3B800EE7b2a5B00c1.png"
     }
   ]
 }
