@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 10
+    "patch": 11
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -1152,6 +1152,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x461d3C96D170e551611f54FA466D3D74A680AbA3.png"
+    },
+    {
+      "name": "The White Wolf",
+      "symbol": "WOLF",
+      "address": "0x73AC2806C40AB4741ea7a35B7328ACA957755ba3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x73AC2806C40AB4741ea7a35B7328ACA957755ba3.png"
     }
   ]
 }
