@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 10
+    "patch": 11
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -121,6 +121,38 @@
       "chainId": 4663,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x77581054581B9c525E7dd7a0155DE43867532d03.png"
+    },
+    {
+      "name": "Mintly",
+      "symbol": "MLY",
+      "address": "0x84b7515081A7Ac5adc26179b77A8B18A8c6725C0",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x84b7515081A7Ac5adc26179b77A8B18A8c6725C0.png"
+    },
+    {
+      "name": "OrbitEditor",
+      "symbol": "ORBIT",
+      "address": "0x274C69125bc03784f61378DcE7FB6c6D87331389",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0x274C69125bc03784f61378DcE7FB6c6D87331389.png"
+    },
+    {
+      "name": "Vena Protocol",
+      "symbol": "VENA",
+      "address": "0xFbD1Bf9d354CD8197Ab54f80778C03cc468ADAaf",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0xFbD1Bf9d354CD8197Ab54f80778C03cc468ADAaf.png"
+    },
+    {
+      "name": "VORTANO",
+      "symbol": "VRTN",
+      "address": "0xe81DC008231035C91F09633c541394B9DdF53673",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/4663/tokens/0xe81DC008231035C91F09633c541394B9DdF53673.png"
     }
   ]
 }
