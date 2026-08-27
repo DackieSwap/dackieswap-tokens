@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 6,
-    "patch": 11
+    "patch": 12
   },
   "tags": {},
   "logoURI": "https://dackieswap.xyz/logo.png",
@@ -1160,6 +1160,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x73AC2806C40AB4741ea7a35B7328ACA957755ba3.png"
+    },
+    {
+      "name": "clawd.atg.eth",
+      "symbol": "CLAWD",
+      "address": "0x9f86db9fc6f7c9408e8fda3ff8ce4e78ac7a6b07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DackieSwap/dackieswap-tokens/main/images/8453/tokens/0x9f86db9fc6f7c9408e8fda3ff8ce4e78ac7a6b07.png"
     }
   ]
 }
